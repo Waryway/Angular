@@ -1,0 +1,10 @@
+{
+  "name": "Angular",
+  "version": "1.0.0",
+  "description": "A basic Angular Container",
+  "main": "index.js",
+  "repository": "https://github.com/Waryway/Angular",
+  "author": "Kyle Wiering <kyle@waryway.com>",
+  "license": "The Unlicense",
+  "private": false
+}
